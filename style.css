@@ -1,0 +1,10 @@
+body
+{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center; /*alinha horizontalmente no meio*/
+    align-items: center ;
+    flex-direction: column; /*deixa um abaixo do outro*/
+}
+
